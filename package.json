@@ -1,7 +1,7 @@
 {
   "name": "plantr",
   "version": "1.0.0",
-  "description": "",
+  "description": "planting sequelize seeds :)",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,5 +13,13 @@
     "pg": "^7.4.3",
     "pg-hstore": "^2.3.2",
     "sequelize": "^4.37.10"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sehailey/Plantr.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sehailey/Plantr/issues"
+  },
+  "homepage": "https://github.com/sehailey/Plantr#readme"
 }
