@@ -1,0 +1,2 @@
+# Plantr
+planting sequelize seeds :)
